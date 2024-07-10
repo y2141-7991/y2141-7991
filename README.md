@@ -1,7 +1,7 @@
 ## Hiii, nice to meet you 👋👋👋
 
 <p align="left">
- <img src="https://readme-typing-svg.herokuapp.com/?lines=My+name+is+Linh+Võ!&center=true&width=360&height=30">
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=My+name+is+Y+Nguyen!&center=true&width=360&height=30">
 </p>
 
 <!--
