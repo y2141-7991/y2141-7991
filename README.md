@@ -12,5 +12,5 @@
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Ý Nguyễn | 💻 Data Engineer | 🛸 VietNam <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 
-🏀 🇻🇳 🎵 🥭 
+🏀 🎵 🫁 🚬 
 -   :video_game: Currently learning **Rust & Backend**
